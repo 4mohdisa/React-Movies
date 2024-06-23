@@ -35,19 +35,6 @@ A React application that displays a list of movies. The project is bootstrapped 
 - `web-vitals`: ^1.1.2
 - `styled-components`
 
-## File Structure
-
-├── components
-├── hooks
-├── images
-├── API.js
-├── App.js
-├── GlobalStyle.js
-├── config.js
-├── helper.js
-├── index.js
-
-
 ## Technologies Used
 
 - React
