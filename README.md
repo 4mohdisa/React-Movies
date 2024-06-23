@@ -45,7 +45,7 @@ A React application that displays a list of movies. The project is bootstrapped 
 ├── GlobalStyle.js
 ├── config.js
 ├── helper.js
-└── index.js
+├── index.js
 
 
 ## Technologies Used
